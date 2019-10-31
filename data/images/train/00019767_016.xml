@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PE</folder>
+	<filename>00019767_016.jpg</filename>
+	<path>C:\Users\sk\Google Drive\research work C vission\PE\00019767_016.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PLEURAL EFFUSION</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>495</ymin>
+			<xmax>192</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+</annotation>

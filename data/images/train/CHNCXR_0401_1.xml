@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TB</folder>
+	<filename>CHNCXR_0401_1.jpg</filename>
+	<path>C:\Users\sk\Google Drive\research work C vission\TB\CHNCXR_0401_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>667</width>
+		<height>800</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tuberculosis (TB)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>118</ymin>
+			<xmax>280</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>
