@@ -1,0 +1,38 @@
+<annotation>
+	<folder>TB new</folder>
+	<filename>Tuberculosis-1451.png</filename>
+	<path>C:\Users\Conference R\Google Drive (gnexus521@gmail.com)\May 2021 Research work PE\TB new\Tuberculosis-1451.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>56</ymin>
+			<xmax>213</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>94</ymin>
+			<xmax>358</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>
