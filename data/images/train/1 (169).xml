@@ -1,0 +1,38 @@
+<annotation>
+	<folder>PE new</folder>
+	<filename>1 (169).jpg</filename>
+	<path>C:\Users\Conference R\Google Drive (gnexus521@gmail.com)\May 2021 Research work PE\PE new\1 (169).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2743</width>
+		<height>2680</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pleural Effusion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>361</xmin>
+			<ymin>1556</ymin>
+			<xmax>1017</xmax>
+			<ymax>1992</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pleural Effusion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1834</xmin>
+			<ymin>1506</ymin>
+			<xmax>2450</xmax>
+			<ymax>2026</ymax>
+		</bndbox>
+	</object>
+</annotation>
