@@ -1,0 +1,26 @@
+<annotation>
+	<folder>old test</folder>
+	<filename>CHNCXR_0620_1.jpg</filename>
+	<path>C:\Users\Conference R\Desktop\old test\CHNCXR_0620_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>745</width>
+		<height>800</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tuberculosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>155</ymin>
+			<xmax>318</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

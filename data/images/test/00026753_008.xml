@@ -1,0 +1,26 @@
+<annotation>
+	<folder>old test</folder>
+	<filename>00026753_008.jpg</filename>
+	<path>C:\Users\Conference R\Desktop\old test\00026753_008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pleural Effusion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>229</ymin>
+			<xmax>675</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>
